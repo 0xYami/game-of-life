@@ -11,7 +11,7 @@ This is an implementation of Conway's Game of Life in Python. The Game of Life i
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/0xhylia/game-of-life
    ```
 
 2. Change into the project directory:
